@@ -1,0 +1,50 @@
+---
+title: "Second Rhus meeting"
+author: "Stefan McKinnon Høj-Edwards <smhe@kamstrup.dk>"
+date: "2019-11-13"
+output: 
+  ioslides_presentation: 
+    logo: Rhus_logo.png
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,cache=FALSE)
+```
+
+## Practical stuff
+
+Two questionnaires: 
+
+(1) Attendence 
+
+(2) Survey on the meetings
+
+<hr />
+
+**Code of Conduct**
+
+TL;DR: Be nice, be inclusive.
+
+Full edition: https://github.com/au-cru/site/blame/master/CODE_OF_CONDUCT.md
+
+
+## Schedule
+
+
+- 29 October  17.00 - 18.30
+- 13 November 19.30 - 21.00
+-  2 December 19.30 - 21.00: 
+    + "Enabling H2O deep learning models in R" ( John Westberg, Data Scientist at Telenor Danmark)
+    + "How we came to use R at the Royal Library — and what we use it for" (Per Møldrup-Dalum, Det Kgl. Bibliotek)
+
+
+## Program for today
+
+- **Max Odsbjerg Pedersen:** Accessing digital cultural heritage as data – Solr and R
+- **Johannes Tang Kristensen:** Predicting milk production using R
+
+<div class="smaller">
+Snacks and refreshments sponsored by Kamstrup.
+
+![](kamstrup.png)
+</div>
